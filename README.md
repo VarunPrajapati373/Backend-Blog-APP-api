@@ -16,3 +16,5 @@
 6. Proper Exception Handling
 7. JWT based authentication
 8. Swagger Documentation for APIs
+
+![Screenshot from 2024-03-29 16-29-33](https://github.com/VarunPrajapati373/Backend-Blog-APP-api/assets/65784683/00f7973f-5b12-4991-9123-d5de06f4530a)
